@@ -10,6 +10,15 @@ body {
 
 .my-photo {
     border: 3px solid black;
+    .gallery-photo {
+    width: 250px;
+    height: 180px;
+    object-fit: cover;
+    margin: 10px;
+    padding: 6px;
+    border: 2px solid #8A6246;
+    background-color: white;
+}
 }
 
 .text {
