@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    background-color: beige;
+    text-align: center;
+}
+
+#name {
+    color: darkblue;
+}
+
+.my-photo {
+    border: 3px solid black;
+}
+
+.text {
+    font-size: 18px;
+}
+
+.link {
+    color: darkblue;
+    text-decoration: none;
+}
